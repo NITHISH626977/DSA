@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T03:56:23.557Z",
+  "lastUpdated": "2026-07-31T03:56:40.326Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1070,6 +1070,272 @@
               "runtime": "0 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Array/Find if Digit Game Can Be Won/"
+            }
+          }
+        },
+        "baseball-game": {
+          "questionId": "682",
+          "title": "Baseball Game",
+          "titleSlug": "baseball-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "2 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Baseball Game/"
+            }
+          }
+        },
+        "sign-of-the-product-of-an-array": {
+          "questionId": "1822",
+          "title": "Sign of the Product of an Array",
+          "titleSlug": "sign-of-the-product-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
+            }
+          }
+        },
+        "three-consecutive-odds": {
+          "questionId": "1550",
+          "title": "Three Consecutive Odds",
+          "titleSlug": "three-consecutive-odds",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Three Consecutive Odds/"
+            }
+          }
+        },
+        "subtract-the-product-and-sum-of-digits-of-an-integer": {
+          "questionId": "1281",
+          "title": "Subtract the Product and Sum of Digits of an Integer",
+          "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
+            }
+          }
+        },
+        "find-the-maximum-achievable-number": {
+          "questionId": "2769",
+          "title": "Find the Maximum Achievable Number",
+          "titleSlug": "find-the-maximum-achievable-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Find the Maximum Achievable Number/"
+            }
+          }
+        },
+        "squares-of-a-sorted-array": {
+          "questionId": "977",
+          "title": "Squares of a Sorted Array",
+          "titleSlug": "squares-of-a-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "8 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
+            }
+          }
+        },
+        "find-words-containing-character": {
+          "questionId": "2942",
+          "title": "Find Words Containing Character",
+          "titleSlug": "find-words-containing-character",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "1 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Find Words Containing Character/"
+            }
+          }
+        },
+        "type-of-triangle": {
+          "questionId": "3024",
+          "title": "Type of Triangle",
+          "titleSlug": "type-of-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "2 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Type of Triangle/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "1 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "number-of-changing-keys": {
+          "questionId": "3019",
+          "title": "Number of Changing Keys",
+          "titleSlug": "number-of-changing-keys",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "1 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Number of Changing Keys/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "divisible-and-non-divisible-sums-difference": {
+          "questionId": "2894",
+          "title": "Divisible and Non-divisible Sums Difference",
+          "titleSlug": "divisible-and-non-divisible-sums-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "1 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Math/Divisible and Non-divisible Sums Difference/"
+            }
+          }
+        },
+        "xor-operation-in-an-array": {
+          "questionId": "1486",
+          "title": "XOR Operation in an Array",
+          "titleSlug": "xor-operation-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/XOR Operation in an Array/"
+            }
+          }
+        },
+        "sum-multiples": {
+          "questionId": "2652",
+          "title": "Sum Multiples",
+          "titleSlug": "sum-multiples",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "3 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Sum Multiples/"
+            }
+          }
+        },
+        "difference-between-element-sum-and-digit-sum-of-an-array": {
+          "questionId": "2535",
+          "title": "Difference Between Element Sum and Digit Sum of an Array",
+          "titleSlug": "difference-between-element-sum-and-digit-sum-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470200326,
+              "runtime": "2 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Difference Between Element Sum and Digit Sum of an Array/"
             }
           }
         }
