@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T03:55:26.941Z",
+  "lastUpdated": "2026-07-31T03:55:46.575Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -207,6 +207,279 @@
               "runtime": "8 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "number-of-equivalent-domino-pairs": {
+          "questionId": "1128",
+          "title": "Number of Equivalent Domino Pairs",
+          "titleSlug": "number-of-equivalent-domino-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "4 ms",
+              "memory": "55.7 MB",
+              "githubPath": "LeetCode/Array/Number of Equivalent Domino Pairs/"
+            }
+          }
+        },
+        "a-number-after-a-double-reversal": {
+          "questionId": "2119",
+          "title": "A Number After a Double Reversal",
+          "titleSlug": "a-number-after-a-double-reversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/A Number After a Double Reversal/"
+            }
+          }
+        },
+        "count-odd-numbers-in-an-interval-range": {
+          "questionId": "1523",
+          "title": "Count Odd Numbers in an Interval Range",
+          "titleSlug": "count-odd-numbers-in-an-interval-range",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Count Odd Numbers in an Interval Range/"
+            }
+          }
+        },
+        "add-two-integers": {
+          "questionId": "2235",
+          "title": "Add Two Integers",
+          "titleSlug": "add-two-integers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
+            }
+          }
+        },
+        "final-value-of-variable-after-performing-operations": {
+          "questionId": "2011",
+          "title": "Final Value of Variable After Performing Operations",
+          "titleSlug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+            }
+          }
+        },
+        "removing-stars-from-a-string": {
+          "questionId": "2390",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "63 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "how-many-numbers-are-smaller-than-the-current-number": {
+          "questionId": "1365",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "8 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
+            }
+          }
+        },
+        "average-value-of-even-numbers-that-are-divisible-by-three": {
+          "questionId": "2455",
+          "title": "Average Value of Even Numbers That Are Divisible by Three",
+          "titleSlug": "average-value-of-even-numbers-that-are-divisible-by-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "0 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Average Value of Even Numbers That Are Divisible by Three/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "24 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "1 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "minimum-operations-to-make-array-sum-divisible-by-k": {
+          "questionId": "3512",
+          "title": "Minimum Operations to Make Array Sum Divisible by K",
+          "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
+            }
+          }
+        },
+        "maximum-substrings-with-distinct-start": {
+          "questionId": "3760",
+          "title": "Maximum Substrings With Distinct Start",
+          "titleSlug": "maximum-substrings-with-distinct-start",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "32 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Hash Table/Maximum Substrings With Distinct Start/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470146575,
+              "runtime": "2 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
             }
           }
         }
