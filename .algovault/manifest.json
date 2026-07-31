@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T03:55:46.575Z",
+  "lastUpdated": "2026-07-31T03:56:07.169Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -480,6 +480,315 @@
               "runtime": "2 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167168,
+              "runtime": "1 ms",
+              "memory": "63.5 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "find-smallest-letter-greater-than-target": {
+          "questionId": "744",
+          "title": "Find Smallest Letter Greater Than Target",
+          "titleSlug": "find-smallest-letter-greater-than-target",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167168,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167168,
+              "runtime": "16 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "1-bit-and-2-bit-characters": {
+          "questionId": "717",
+          "title": "1-bit and 2-bit Characters",
+          "titleSlug": "1-bit-and-2-bit-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167168,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/1-bit and 2-bit Characters/"
+            }
+          }
+        },
+        "convert-a-number-to-hexadecimal": {
+          "questionId": "405",
+          "title": "Convert a Number to Hexadecimal",
+          "titleSlug": "convert-a-number-to-hexadecimal",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167168,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167168,
+              "runtime": "3 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "check-if-all-1s-are-at-least-length-k-places-away": {
+          "questionId": "1437",
+          "title": "Check If All 1's Are at Least Length K Places Away",
+          "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "1 ms",
+              "memory": "65.8 MB",
+              "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
+            }
+          }
+        },
+        "greatest-common-divisor-of-strings": {
+          "questionId": "1071",
+          "title": "Greatest Common Divisor of Strings",
+          "titleSlug": "greatest-common-divisor-of-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "1 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Math/Greatest Common Divisor of Strings/"
+            }
+          }
+        },
+        "maximum-number-of-operations-to-move-ones-to-the-end": {
+          "questionId": "3228",
+          "title": "Maximum Number of Operations to Move Ones to the End",
+          "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "8 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "1 ms",
+              "memory": "85 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "15 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "1 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "count-operations-to-obtain-zero": {
+          "questionId": "2169",
+          "title": "Count Operations to Obtain Zero",
+          "titleSlug": "count-operations-to-obtain-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "5 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "license-key-formatting": {
+          "questionId": "482",
+          "title": "License Key Formatting",
+          "titleSlug": "license-key-formatting",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "15 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/String/License Key Formatting/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470167169,
+              "runtime": "13 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
             }
           }
         }
