@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1785470200328" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1785470213441" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,14 +16,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
+| 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
+| 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
@@ -49,12 +55,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1822 | [Sign of the Product of an Array](./Array/Sign%20of%20the%20Product%20of%20an%20Array/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 2108 | [Find First Palindromic String in the Array](./Array/Find%20First%20Palindromic%20String%20in%20the%20Array/) | Easy |
+| 2114 | [Maximum Number of Words Found in Sentences](./Array/Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) | Easy |
 | 2348 | [Number of Zero-Filled Subarrays](./Array/Number%20of%20Zero-Filled%20Subarrays/) | Medium |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./Array/Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./Array/Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/) | Easy |
 | 2798 | [Number of Employees Who Met the Target](./Array/Number%20of%20Employees%20Who%20Met%20the%20Target/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
+| 2974 | [Minimum Number Game](./Array/Minimum%20Number%20Game/) | Easy |
 | 3024 | [Type of Triangle](./Array/Type%20of%20Triangle/) | Easy |
+| 3201 | [Find the Maximum Length of Valid Subsequence I](./Array/Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I/) | Medium |
 | 3232 | [Find if Digit Game Can Be Won](./Array/Find%20if%20Digit%20Game%20Can%20Be%20Won/) | Easy |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./Array/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/) | Easy |
@@ -81,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
+| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](./Hash%20Table/Maximum%20Substrings%20With%20Distinct%20Start/) | Medium |
 
 </details>
@@ -93,6 +104,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
@@ -106,6 +118,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2119 | [A Number After a Double Reversal](./Math/A%20Number%20After%20a%20Double%20Reversal/) | Easy |
 | 2169 | [Count Operations to Obtain Zero](./Math/Count%20Operations%20to%20Obtain%20Zero/) | Easy |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
+| 2520 | [Count the Digits That Divide a Number](./Math/Count%20the%20Digits%20That%20Divide%20a%20Number/) | Easy |
 | 2652 | [Sum Multiples](./Math/Sum%20Multiples/) | Easy |
 | 2769 | [Find the Maximum Achievable Number](./Math/Find%20the%20Maximum%20Achievable%20Number/) | Easy |
 | 2894 | [Divisible and Non-divisible Sums Difference](./Math/Divisible%20and%20Non-divisible%20Sums%20Difference/) | Easy |

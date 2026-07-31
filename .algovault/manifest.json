@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T03:56:40.326Z",
+  "lastUpdated": "2026-07-31T03:56:53.440Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1336,6 +1336,248 @@
               "runtime": "2 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Difference Between Element Sum and Digit Sum of an Array/"
+            }
+          }
+        },
+        "count-the-digits-that-divide-a-number": {
+          "questionId": "2520",
+          "title": "Count the Digits That Divide a Number",
+          "titleSlug": "count-the-digits-that-divide-a-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Count the Digits That Divide a Number/"
+            }
+          }
+        },
+        "find-first-palindromic-string-in-the-array": {
+          "questionId": "2108",
+          "title": "Find First Palindromic String in the Array",
+          "titleSlug": "find-first-palindromic-string-in-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "4 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Find First Palindromic String in the Array/"
+            }
+          }
+        },
+        "maximum-number-of-words-found-in-sentences": {
+          "questionId": "2114",
+          "title": "Maximum Number of Words Found in Sentences",
+          "titleSlug": "maximum-number-of-words-found-in-sentences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "3 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Words Found in Sentences/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "minimum-number-game": {
+          "questionId": "2974",
+          "title": "Minimum Number Game",
+          "titleSlug": "minimum-number-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "2 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Minimum Number Game/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "20 ms",
+              "memory": "61 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "3 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "1 ms",
+              "memory": "56.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "find-the-maximum-length-of-valid-subsequence-i": {
+          "questionId": "3201",
+          "title": "Find the Maximum Length of Valid Subsequence I",
+          "titleSlug": "find-the-maximum-length-of-valid-subsequence-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "4 ms",
+              "memory": "62.3 MB",
+              "githubPath": "LeetCode/Array/Find the Maximum Length of Valid Subsequence I/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "5 ms",
+              "memory": "58.3 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785470213440,
+              "runtime": "0 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
             }
           }
         }
