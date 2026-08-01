@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T06:54:45.435Z",
+  "lastUpdated": "2026-08-01T04:53:18.737Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2375,6 +2375,25 @@
               "runtime": "9 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Number of Pushes to Type Word II/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785559998737,
+              "runtime": "104 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }
