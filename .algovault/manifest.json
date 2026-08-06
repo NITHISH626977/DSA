@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T04:53:18.737Z",
+  "lastUpdated": "2026-08-06T04:55:05.292Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2394,6 +2394,24 @@
               "runtime": "104 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "smallest-divisible-digit-product-i": {
+          "questionId": "3345",
+          "title": "Smallest Divisible Digit Product I",
+          "titleSlug": "smallest-divisible-digit-product-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785992105291,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             }
           }
         }

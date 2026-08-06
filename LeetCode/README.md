@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1785559998768" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1785992105317" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -159,6 +159,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2652 | [Sum Multiples](./Math/Sum%20Multiples/) | Easy |
 | 2769 | [Find the Maximum Achievable Number](./Math/Find%20the%20Maximum%20Achievable%20Number/) | Easy |
 | 2894 | [Divisible and Non-divisible Sums Difference](./Math/Divisible%20and%20Non-divisible%20Sums%20Difference/) | Easy |
+| 3345 | [Smallest Divisible Digit Product I](./Math/Smallest%20Divisible%20Digit%20Product%20I/) | Easy |
 | 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
 
 </details>
