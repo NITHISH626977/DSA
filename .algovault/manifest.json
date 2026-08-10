@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T04:52:25.070Z",
+  "lastUpdated": "2026-08-10T04:52:32.369Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2440,22 +2440,21 @@
             }
           }
         },
-        "2253-A": {
-          "questionId": "2253A",
-          "title": "The Best Card",
-          "titleSlug": "2253-A",
-          "difficulty": "Unrated",
+        "2248-C": {
+          "questionId": "2248C",
+          "title": "Maximize the Score",
+          "titleSlug": "2248-C",
+          "difficulty": "1300",
           "tags": [
-            "greedy",
-            "math",
-            "number theory"
+            "dp",
+            "greedy"
           ],
           "solutions": {
-            "python": {
-              "syncedAt": 1786337545070,
-              "runtime": "187 ms",
-              "memory": "8900 KB",
-              "githubPath": "Codeforces/greedy/The Best Card/"
+            "cpp": {
+              "syncedAt": 1786337552369,
+              "runtime": "93 ms",
+              "memory": "1800 KB",
+              "githubPath": "Codeforces/dp/Maximize the Score/"
             }
           }
         }
