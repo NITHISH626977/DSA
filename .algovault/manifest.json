@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T04:50:19.412Z",
+  "lastUpdated": "2026-08-10T04:52:25.070Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2437,6 +2437,25 @@
               "runtime": "92 ms",
               "memory": "0 KB",
               "githubPath": "Codeforces/greedy/Helpful Maths/"
+            }
+          }
+        },
+        "2253-A": {
+          "questionId": "2253A",
+          "title": "The Best Card",
+          "titleSlug": "2253-A",
+          "difficulty": "Unrated",
+          "tags": [
+            "greedy",
+            "math",
+            "number theory"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1786337545070,
+              "runtime": "187 ms",
+              "memory": "8900 KB",
+              "githubPath": "Codeforces/greedy/The Best Card/"
             }
           }
         }
