@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T04:52:45.236Z",
+  "lastUpdated": "2026-08-10T04:52:54.679Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2440,21 +2440,22 @@
             }
           }
         },
-        "41-A": {
-          "questionId": "41A",
-          "title": "Translation",
-          "titleSlug": "41-A",
-          "difficulty": "800",
+        "2254-D": {
+          "questionId": "2254D",
+          "title": "Silhouette",
+          "titleSlug": "2254-D",
+          "difficulty": "Unrated",
           "tags": [
-            "implementation",
-            "strings"
+            "constructive algorithms",
+            "math",
+            "sortings"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1786337565236,
-              "runtime": "234 ms",
-              "memory": "1300 KB",
-              "githubPath": "Codeforces/implementation/Translation/"
+            "cpp": {
+              "syncedAt": 1786337574679,
+              "runtime": "359 ms",
+              "memory": "27200 KB",
+              "githubPath": "Codeforces/constructive algorithms/Silhouette/"
             }
           }
         }

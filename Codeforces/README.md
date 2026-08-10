@@ -4,10 +4,21 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=NRTAMILAN07&theme=dark&v=1786337565237" width="100%" />
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=NRTAMILAN07&theme=dark&v=1786337574679" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
+
+
+### constructive algorithms
+<details>
+<summary>Click to expand constructive algorithms problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2254D | [Silhouette](./constructive%20algorithms/Silhouette/) | Unrated |
+
+</details>
 
 
 ### greedy
@@ -17,17 +28,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 339A | [Helpful Maths](./greedy/Helpful%20Maths/) | 800 |
-
-</details>
-
-
-### implementation
-<details>
-<summary>Click to expand implementation problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 41A | [Translation](./implementation/Translation/) | 800 |
 
 </details>
 
