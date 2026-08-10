@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T04:52:32.369Z",
+  "lastUpdated": "2026-08-10T04:52:45.236Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2440,21 +2440,21 @@
             }
           }
         },
-        "2248-C": {
-          "questionId": "2248C",
-          "title": "Maximize the Score",
-          "titleSlug": "2248-C",
-          "difficulty": "1300",
+        "41-A": {
+          "questionId": "41A",
+          "title": "Translation",
+          "titleSlug": "41-A",
+          "difficulty": "800",
           "tags": [
-            "dp",
-            "greedy"
+            "implementation",
+            "strings"
           ],
           "solutions": {
-            "cpp": {
-              "syncedAt": 1786337552369,
-              "runtime": "93 ms",
-              "memory": "1800 KB",
-              "githubPath": "Codeforces/dp/Maximize the Score/"
+            "java": {
+              "syncedAt": 1786337565236,
+              "runtime": "234 ms",
+              "memory": "1300 KB",
+              "githubPath": "Codeforces/implementation/Translation/"
             }
           }
         }
