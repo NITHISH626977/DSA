@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T17:40:00.447Z",
+  "lastUpdated": "2026-08-12T17:41:47.275Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2447,6 +2447,12 @@
               "syncedAt": 1786556400446,
               "runtime": "32 ms",
               "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Distribute Candies/"
+            },
+            "123456789class solution {    public int distributecandies(int[] candytype) {    set<integer>set =new hashset<>();        for(int i=0;i<candytype.length;i++){            set.add(candytype[i]);        }       return math.min(set.size(),candytype.length/2);    }}": {
+              "syncedAt": 1786556507275,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Distribute Candies/"
             }
           }
