@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T16:59:45.670Z",
+  "lastUpdated": "2026-08-12T17:40:00.447Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2430,6 +2430,24 @@
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
+            }
+          }
+        },
+        "distribute-candies": {
+          "questionId": "575",
+          "title": "Distribute Candies",
+          "titleSlug": "distribute-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786556400446,
+              "runtime": "32 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Distribute Candies/"
             }
           }
         }
