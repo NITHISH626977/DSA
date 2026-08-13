@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T08:24:26.470Z",
+  "lastUpdated": "2026-08-13T08:34:27.079Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2473,6 +2473,24 @@
               "runtime": "2 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/Sum of Unique Elements/"
+            }
+          }
+        },
+        "second-largest-digit-in-a-string": {
+          "questionId": "1796",
+          "title": "Second Largest Digit in a String",
+          "titleSlug": "second-largest-digit-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786610067079,
+              "runtime": "2 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
             }
           }
         }
