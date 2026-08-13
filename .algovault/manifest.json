@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T08:34:27.079Z",
+  "lastUpdated": "2026-08-13T10:06:06.213Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2491,6 +2491,24 @@
               "runtime": "2 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
+            }
+          }
+        },
+        "unique-number-of-occurrences": {
+          "questionId": "1207",
+          "title": "Unique Number of Occurrences",
+          "titleSlug": "unique-number-of-occurrences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786615566213,
+              "runtime": "4 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Unique Number of Occurrences/"
             }
           }
         }
