@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T17:41:47.275Z",
+  "lastUpdated": "2026-08-13T08:24:26.470Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2454,6 +2454,25 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Distribute Candies/"
+            }
+          }
+        },
+        "sum-of-unique-elements": {
+          "questionId": "1748",
+          "title": "Sum of Unique Elements",
+          "titleSlug": "sum-of-unique-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786609466469,
+              "runtime": "2 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Sum of Unique Elements/"
             }
           }
         }
