@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T10:42:20.618Z",
+  "lastUpdated": "2026-08-13T10:51:22.818Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2534,6 +2534,23 @@
               "runtime": "13 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Array/Find Lucky Integer in an Array/"
+            }
+          }
+        },
+        "unknown-problem": {
+          "questionId": "",
+          "title": "Find Lucky Integer in an Array",
+          "titleSlug": "unknown-problem",
+          "difficulty": "Medium",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786618282818,
+              "runtime": "13 ms",
+              "memory": "46.45 MB",
+              "githubPath": "LeetCode/General/Find Lucky Integer in an Array/"
             }
           }
         }
