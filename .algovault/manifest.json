@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T10:08:52.156Z",
+  "lastUpdated": "2026-08-13T10:42:20.618Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2515,6 +2515,25 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Unique Number of Occurrences/"
+            }
+          }
+        },
+        "find-lucky-integer-in-an-array": {
+          "questionId": "1394",
+          "title": "Find Lucky Integer in an Array",
+          "titleSlug": "find-lucky-integer-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786617740617,
+              "runtime": "13 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Find Lucky Integer in an Array/"
             }
           }
         }
