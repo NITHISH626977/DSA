@@ -5,38 +5,52 @@
 
 ## Problem Statement
 
-<p>Given an array of integers <code>arr</code>, return <code>true</code> <em>if the number of occurrences of each value in the array is <strong>unique</strong> or </em><code>false</code><em> otherwise</em>.</p>
+Given an array of integers arr, return true if the number of occurrences of each value in the array is unique or false otherwise.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> arr = [1,2,2,1,1,3]
-<strong>Output:</strong> true
-<strong>Explanation:</strong>&nbsp;The value 1 has 3 occurrences, 2 has 2 and 3 has 1. No two values have the same number of occurrences.</pre>
+Input: arr = [1,2,2,1,1,3]
+Output: true
+Explanation: The value 1 has 3 occurrences, 2 has 2 and 3 has 1. No two values have the same number of occurrences.
 
-<p><strong class="example">Example 2:</strong></p>
+Example 2:
 
-<pre>
-<strong>Input:</strong> arr = [1,2]
-<strong>Output:</strong> false
-</pre>
+Input: arr = [1,2]
+Output: false
 
-<p><strong class="example">Example 3:</strong></p>
 
-<pre>
-<strong>Input:</strong> arr = [-3,0,1,-3,1,1,1,-3,10,0]
-<strong>Output:</strong> true
-</pre>
+Example 3:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: arr = [-3,0,1,-3,1,1,1,-3,10,0]
+Output: true
 
-<ul>
-	<li><code>1 &lt;= arr.length &lt;= 1000</code></li>
-	<li><code>-1000 &lt;= arr[i] &lt;= 1000</code></li>
-</ul>
 
+ 
+Constraints:
+
+
+	1 <= arr.length <= 1000
+	-1000 <= arr[i] <= 1000
+
+## Examples
+
+```
+Input: arr = [1,2,2,1,1,3]
+Output: true
+Explanation: The value 1 has 3 occurrences, 2 has 2 and 3 has 1. No two values have the same number of occurrences.
+
+Input: arr = [1,2]
+Output: false
+
+Input: arr = [-3,0,1,-3,1,1,1,-3,10,0]
+Output: true
+```
+
+## Constraints
+
+- 1 <= arr.length <= 1000
+- -1000 <= arr[i] <= 1000
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

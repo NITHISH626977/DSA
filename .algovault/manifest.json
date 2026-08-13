@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T10:06:06.213Z",
+  "lastUpdated": "2026-08-13T10:08:52.156Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2508,6 +2508,12 @@
               "syncedAt": 1786615566213,
               "runtime": "4 ms",
               "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Unique Number of Occurrences/"
+            },
+            "79101116121745681513181419321        set<integer>set=new hashset<>(list);        int count=0;        for(int a:set){          count=collections.frequency(list,a);        }            if(set2.contains(count)){        return true;        for(int x:arr){            list.add(x);        }        set<integer>set2=new hashset<>();            set2.add(count);            return false;    }            }}        list<integer>list=new arraylist<>();    public boolean uniqueoccurrences(int[] arr) {class solution {": {
+              "syncedAt": 1786615732155,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Unique Number of Occurrences/"
             }
           }

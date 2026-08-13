@@ -1,0 +1,19 @@
+        Set<Integer>set=new HashSet<>(list);
+        int count=0;
+        for(int a:set){
+          count=Collections.frequency(list,a);
+        }
+            if(set2.contains(count)){
+        return true;
+        for(int x:arr){
+            list.add(x);
+        }
+        Set<Integer>set2=new HashSet<>();
+            set2.add(count);
+            return false;
+    }
+            }
+}
+        List<Integer>list=new ArrayList<>();
+    public boolean uniqueOccurrences(int[] arr) {
+class Solution {
