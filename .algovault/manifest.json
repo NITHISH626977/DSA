@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T10:37:07.122Z",
+  "lastUpdated": "2026-08-18T13:40:38.992Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2569,6 +2569,25 @@
               "runtime": "11 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "clear-digits": {
+          "questionId": "3174",
+          "title": "Clear Digits",
+          "titleSlug": "clear-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787060438990,
+              "runtime": "4 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/String/Clear Digits/"
             }
           }
         }
