@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1787060439016" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1787072761701" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -139,6 +139,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 | 3016 | [Minimum Number of Pushes to Type Word II](./Hash%20Table/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) | Medium |
 | 3760 | [Maximum Substrings With Distinct Start](./Hash%20Table/Maximum%20Substrings%20With%20Distinct%20Start/) | Medium |
+| 3945 | [Digit Frequency Score](./Hash%20Table/Digit%20Frequency%20Score/) | Easy |
 
 </details>
 

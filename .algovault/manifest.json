@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T13:40:38.992Z",
+  "lastUpdated": "2026-08-18T17:06:01.677Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2588,6 +2588,24 @@
               "runtime": "4 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/String/Clear Digits/"
+            }
+          }
+        },
+        "digit-frequency-score": {
+          "questionId": "3945",
+          "title": "Digit Frequency Score",
+          "titleSlug": "digit-frequency-score",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787072761676,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Hash Table/Digit Frequency Score/"
             }
           }
         }
