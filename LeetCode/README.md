@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1787072761701" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1787146319914" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -83,6 +83,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2108 | [Find First Palindromic String in the Array](./Array/Find%20First%20Palindromic%20String%20in%20the%20Array/) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](./Array/Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) | Easy |
 | 2348 | [Number of Zero-Filled Subarrays](./Array/Number%20of%20Zero-Filled%20Subarrays/) | Medium |
+| 2395 | [Find Subarrays With Equal Sum](./Array/Find%20Subarrays%20With%20Equal%20Sum/) | Easy |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./Array/Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/) | Easy |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./Array/Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/) | Easy |

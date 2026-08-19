@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T17:06:01.677Z",
+  "lastUpdated": "2026-08-19T13:31:59.888Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2606,6 +2606,24 @@
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Hash Table/Digit Frequency Score/"
+            }
+          }
+        },
+        "find-subarrays-with-equal-sum": {
+          "questionId": "2395",
+          "title": "Find Subarrays With Equal Sum",
+          "titleSlug": "find-subarrays-with-equal-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787146319888,
+              "runtime": "1 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Find Subarrays With Equal Sum/"
             }
           }
         }
