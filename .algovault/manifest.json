@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T13:31:59.888Z",
+  "lastUpdated": "2026-08-20T13:45:18.103Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2624,6 +2624,25 @@
               "runtime": "1 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Find Subarrays With Equal Sum/"
+            }
+          }
+        },
+        "maximum-repeating-substring": {
+          "questionId": "1668",
+          "title": "Maximum Repeating Substring",
+          "titleSlug": "maximum-repeating-substring",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787233518103,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Maximum Repeating Substring/"
             }
           }
         }
