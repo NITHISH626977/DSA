@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1787233518128" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1787293500739" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -87,6 +87,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](./Array/Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/) | Easy |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./Array/Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/) | Easy |
+| 2574 | [Left and Right Sum Differences](./Array/Left%20and%20Right%20Sum%20Differences/) | Easy |
 | 2798 | [Number of Employees Who Met the Target](./Array/Number%20of%20Employees%20Who%20Met%20the%20Target/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2974 | [Minimum Number Game](./Array/Minimum%20Number%20Game/) | Easy |
