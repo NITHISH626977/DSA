@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-23T08:24:58.805Z",
+  "lastUpdated": "2026-09-23T08:31:33.605Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2714,6 +2714,23 @@
               "runtime": "445 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790152293604,
+              "runtime": "451 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
             }
           }
         }
