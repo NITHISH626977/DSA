@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-24T08:06:16.282Z",
+  "lastUpdated": "2026-09-24T08:17:39.784Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2754,6 +2754,23 @@
               "runtime": "68 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790237859783,
+              "runtime": "652 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
             }
           }
         }
