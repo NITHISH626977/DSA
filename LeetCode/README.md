@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1790183841932" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1790237145470" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -107,6 +107,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
+| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 

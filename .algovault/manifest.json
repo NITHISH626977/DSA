@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-23T17:17:21.931Z",
+  "lastUpdated": "2026-09-24T08:05:45.442Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2737,6 +2737,23 @@
               "runtime": "451 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Article Views I/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790237145442,
+              "runtime": "462 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
             }
           }
         }
