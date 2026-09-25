@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-24T08:17:39.784Z",
+  "lastUpdated": "2026-09-25T09:54:41.006Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2771,6 +2771,23 @@
               "runtime": "652 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790330081006,
+              "runtime": "1711 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
             }
           }
         }
