@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-25T09:58:37.282Z",
+  "lastUpdated": "2026-09-26T13:10:43.658Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2788,6 +2788,23 @@
               "runtime": "4658 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790428243657,
+              "runtime": "357 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
             }
           }
         }
