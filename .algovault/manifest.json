@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-26T13:10:43.658Z",
+  "lastUpdated": "2026-09-26T13:33:40.598Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2805,6 +2805,23 @@
               "runtime": "357 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790429620598,
+              "runtime": "307 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
             }
           }
         }
