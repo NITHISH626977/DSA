@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-29T04:43:17.747Z",
+  "lastUpdated": "2026-09-29T04:44:00.172Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2243,9 +2243,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785470255369,
+              "syncedAt": 1790657040171,
               "runtime": "1 ms",
-              "memory": "61.4 MB",
+              "memory": "94.6 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             }
           }
@@ -2818,8 +2818,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790656997747,
-              "runtime": "368 ms",
+              "syncedAt": 1790429620598,
+              "runtime": "307 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
             }
