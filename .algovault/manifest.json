@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-26T14:03:34.149Z",
+  "lastUpdated": "2026-09-29T04:33:36.232Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2839,6 +2839,23 @@
               "runtime": "1467 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790656416232,
+              "runtime": "777 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
             }
           }
         }
