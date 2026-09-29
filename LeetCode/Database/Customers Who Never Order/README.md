@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Customers</code></p>
+Table: Customers
 
-<pre>
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -16,13 +15,12 @@
 +-------------+---------+
 id is the primary key (column with unique values) for this table.
 Each row of this table indicates the ID and name of a customer.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Table: <code>Orders</code></p>
+ 
 
-<pre>
+Table: Orders
+
 +-------------+------+
 | Column Name | Type |
 +-------------+------+
@@ -32,21 +30,20 @@ Each row of this table indicates the ID and name of a customer.
 id is the primary key (column with unique values) for this table.
 customerId is a foreign key (reference columns) of the ID from the Customers table.
 Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to find all customers who never order anything.</p>
+ 
 
-<p>Return the result table in <strong>any order</strong>.</p>
+Write a solution to find all customers who never order anything.
 
-<p>The result format is in the following example.</p>
+Return the result table in any order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Customers table:
 +----+-------+
 | id | name  |
@@ -63,15 +60,42 @@ Orders table:
 | 1  | 3          |
 | 2  | 1          |
 +----+------------+
-<strong>Output:</strong> 
+Output: 
 +-----------+
 | Customers |
 +-----------+
 | Henry     |
 | Max       |
 +-----------+
-</pre>
 
+## Examples
+
+```
+Input: 
+Customers table:
++----+-------+
+| id | name  |
++----+-------+
+| 1  | Joe   |
+| 2  | Henry |
+| 3  | Sam   |
+| 4  | Max   |
++----+-------+
+Orders table:
++----+------------+
+| id | customerId |
++----+------------+
+| 1  | 3          |
+| 2  | 1          |
++----+------------+
+Output: 
++-----------+
+| Customers |
++-----------+
+| Henry     |
+| Max       |
++-----------+
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
