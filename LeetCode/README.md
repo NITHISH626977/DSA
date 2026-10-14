@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1790657040174" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1791974733439" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -80,6 +80,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 2085 | [Count Common Words With One Occurrence](./Array/Count%20Common%20Words%20With%20One%20Occurrence/) | Easy |
 | 2108 | [Find First Palindromic String in the Array](./Array/Find%20First%20Palindromic%20String%20in%20the%20Array/) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](./Array/Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) | Easy |
 | 2348 | [Number of Zero-Filled Subarrays](./Array/Number%20of%20Zero-Filled%20Subarrays/) | Medium |
