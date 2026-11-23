@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-14T10:45:33.384Z",
+  "lastUpdated": "2026-11-23T05:44:15.612Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2876,6 +2876,24 @@
               "runtime": "133 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Count Common Words With One Occurrence/"
+            }
+          }
+        },
+        "word-pattern": {
+          "questionId": "290",
+          "title": "Word Pattern",
+          "titleSlug": "word-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795412655611,
+              "runtime": "5 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Hash Table/Word Pattern/"
             }
           }
         }
