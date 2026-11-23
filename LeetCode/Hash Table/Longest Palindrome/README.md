@@ -5,35 +5,48 @@
 
 ## Problem Statement
 
-<p>Given a string <code>s</code> which consists of lowercase or uppercase letters, return the length of the <strong>longest <span data-keyword="palindrome-string">palindrome</span></strong>&nbsp;that can be built with those letters.</p>
+Given a string s which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters.
 
-<p>Letters are <strong>case sensitive</strong>, for example, <code>&quot;Aa&quot;</code> is not considered a palindrome.</p>
+Letters are case sensitive, for example, "Aa" is not considered a palindrome.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+OriginalJavaExample 1:
 
-<pre>
-<strong>Input:</strong> s = &quot;abccccdd&quot;
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> One longest palindrome that can be built is &quot;dccaccd&quot;, whose length is 7.
-</pre>
+Input: s = "abccccdd"
+Output: 7
+Explanation: One longest palindrome that can be built is "dccaccd", whose length is 7.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> s = &quot;a&quot;
-<strong>Output:</strong> 1
-<strong>Explanation:</strong> The longest palindrome that can be built is &quot;a&quot;, whose length is 1.
-</pre>
+Example 2:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: s = "a"
+Output: 1
+Explanation: The longest palindrome that can be built is "a", whose length is 1.
 
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 2000</code></li>
-	<li><code>s</code> consists of lowercase <strong>and/or</strong> uppercase English&nbsp;letters only.</li>
-</ul>
 
+ 
+Constraints:
+
+
+	1 <= s.length <= 2000
+	s consists of lowercase and/or uppercase English letters only.
+
+## Examples
+
+```
+Input: s = "abccccdd"
+Output: 7
+Explanation: One longest palindrome that can be built is "dccaccd", whose length is 7.
+
+Input: s = "a"
+Output: 1
+Explanation: The longest palindrome that can be built is "a", whose length is 1.
+```
+
+## Constraints
+
+- 1 <= s.length <= 2000
+- s consists of lowercase and/or uppercase English letters only.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

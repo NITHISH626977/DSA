@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-23T06:26:03.827Z",
+  "lastUpdated": "2026-11-23T06:34:47.593Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2912,6 +2912,12 @@
               "syncedAt": 1795415163826,
               "runtime": "10 ms",
               "memory": "42.6 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            },
+            "45156789101112131416321        map<character, integer> map = new hashmap<>();        for (char ch : s.tochararray()) {    }            map.put(ch, map.getordefault(ch, 0) + 1);            if (map.get(ch) % 2 == 1)                oddcount++;            else                oddcount--;        }        if (oddcount > 1)            return s.length() - oddcount + 1;        return s.length();}        int oddcount = 0;    public int longestpalindrome(string s) {class solution {": {
+              "syncedAt": 1795415687593,
+              "runtime": "0 ms",
+              "memory": "42.58 MB",
               "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
             }
           }
