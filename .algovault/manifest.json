@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-23T05:44:15.612Z",
+  "lastUpdated": "2026-11-23T06:26:03.827Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2894,6 +2894,25 @@
               "runtime": "5 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Hash Table/Word Pattern/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795415163826,
+              "runtime": "10 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
             }
           }
         }
