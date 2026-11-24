@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-24T04:46:36.098Z",
+  "lastUpdated": "2026-11-24T04:48:18.644Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2934,9 +2934,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1795494491633,
-              "runtime": "111 ms",
-              "memory": "46.7 MB",
+              "syncedAt": 1795495698644,
+              "runtime": "110 ms",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Ransom Note/"
             },
             "4561317781291014151619183211120        for(int i=0;i<ransomnote.length();i++){            boolean found=false;            for(int j=0;j<magazine.length();j++){            }        }                if(ransomnote.charat(i)==magazine.charat(j)){                count++;                }                magazine=magazine.substring(0,j)+magazine.substring(j+1);                 found=true;            if(!found){                 return false;            }    }        return true;        int count=0;    public boolean canconstruct(string ransomnote, string magazine) {class solution {                 break;}": {
