@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-23T06:34:47.593Z",
+  "lastUpdated": "2026-11-24T04:28:11.634Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2919,6 +2919,25 @@
               "runtime": "0 ms",
               "memory": "42.58 MB",
               "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795494491633,
+              "runtime": "111 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
             }
           }
         }

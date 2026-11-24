@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1795415687632" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/NithishKumar_K?theme=tokyonight&show=graph,recent&v=1795494491664" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -156,6 +156,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
