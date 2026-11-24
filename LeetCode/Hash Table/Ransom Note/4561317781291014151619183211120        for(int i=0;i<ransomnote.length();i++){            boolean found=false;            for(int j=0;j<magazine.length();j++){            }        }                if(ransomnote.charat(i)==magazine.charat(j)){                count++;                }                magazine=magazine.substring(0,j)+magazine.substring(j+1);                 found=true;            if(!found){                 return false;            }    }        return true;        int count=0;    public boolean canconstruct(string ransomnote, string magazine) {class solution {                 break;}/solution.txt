@@ -1,0 +1,20 @@
+        for(int i=0;i<ransomNote.length();i++){
+            boolean found=false;
+            for(int j=0;j<magazine.length();j++){
+            }
+        }
+                if(ransomNote.charAt(i)==magazine.charAt(j)){
+                count++;
+                }
+                magazine=magazine.substring(0,j)+magazine.substring(j+1);
+                 found=true;
+            if(!found){
+                 return false;
+            }
+    }
+        return true;
+        int count=0;
+    public boolean canConstruct(String ransomNote, String magazine) {
+class Solution {
+                 break;
+}
